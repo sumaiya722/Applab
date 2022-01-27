@@ -310,6 +310,11 @@
         font-size: 12px;
         line-height: 21px;
     }
+    /* .my-app {
+        flex-wrap: wrap;
+        align-items: center;
+        margin-right: 200px;
+    } */
 
     .ceo_area {
         max-width: 383px;
